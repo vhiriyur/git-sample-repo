@@ -1,0 +1,4 @@
+git commands to create the git branch and folder
+
+git init
+git status
