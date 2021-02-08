@@ -1,4 +1,4 @@
 git commands to create the git branch and folder
 
-git init 
+git init -> Initializes the git repository
 git status -> Prints the status of git repository
