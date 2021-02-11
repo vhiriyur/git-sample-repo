@@ -1,5 +1,0 @@
-git commands to create the git branch and folder
-
-git init -> Initializes the git repository
-git status -> Prints the status of git repository
-git config - > Set the authorizationd details on the git reprository
