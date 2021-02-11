@@ -2,7 +2,7 @@ git commands to create the git branch and folder
 
 git init -> Initializes the git repository
 git status -> Prints the status of git repository
-
+----------------------------------------------------------------------------------------------------------------------------------
 Why branching is needed ?
 CASE 1:
 When 2 developers are working on 2 different releases on the same product then using the same master branch makes it difficult with conflicts and the feature will be available earlier than needed .
@@ -16,4 +16,19 @@ If QA1 updates the Framework then QA2 changes to test cases will fail. Hence bra
 CASE 3: If the same person wotking on 2 different features on the product having the same branch results in lots of conflicts and also makes it hard for debugging.
 
 So working on separate branch on each feature will be necessary.
+
+
+
+ Release1			Release 2
+---------------------Master ------------------------------Master ---------------------------------Master-------------------------Master
+|                                 |                                   		 |
+|	                |				 |
+|	                |				 |
+|	                |				 |
+|	                |				 |
+PrivateBranch1-------
+					 |
+					 |
+PrivateBranch2-----------------------------------------------
+=======
 
