@@ -2,3 +2,37 @@ git commands to create the git branch and folder
 
 git init -> Initializes the git repository
 git status -> Prints the status of git repository
+
+
+\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Release1			Release 2
+---------------------Master ------------------------------Master ---------------------------------Master-------------------------Master
+|                                 |                                   		 |
+|	                |				 |
+|	                |				 |
+|	                |				 |
+|	                |				 |
+PrivateBranch1-------
+					 |
+					 |
+PrivateBranch2-----------------------------------------------
